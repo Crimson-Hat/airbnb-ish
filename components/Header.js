@@ -108,7 +108,7 @@ export default function Header({ placeholder }) {
               fill="currentColor"
             />
           </svg>
-          <span>airbnb</span>
+          <span>Aloha-Bnb</span>
         </div>
         <nav ref={navRef}>
           <a href="#" className="active">
