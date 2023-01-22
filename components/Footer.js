@@ -79,7 +79,7 @@ export default function Footer() {
             </span>
           </p>
           <p>
-            &copy; 2021{" "}
+            &copy; 2023{" "}
             <a href="https://alvin-wachira.netlify.app/" target="_blank" rel="noreferrer">
               AlvinWachira_KE
             </a>
